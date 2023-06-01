@@ -11,7 +11,7 @@ from network import AutoEncoder
 from utils import generate_image_list, augment_images, read_img
 from options import Options
 
-
+#deneme
 cfg = Options().parse()
 
 class data_flow(Sequence):
